@@ -1,6 +1,7 @@
 # Heart-Disease-LogisticRegression
 Heart Disease prediction using Logistic Regresssion
 Jupyter notebook - Predicting heart disease based on features including \n 
+
 1.Age
 2.Gender
 3.RestingBP (Resting Blood Pressure)
