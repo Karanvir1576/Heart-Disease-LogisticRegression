@@ -1,5 +1,5 @@
 # Heart-Disease-LogisticRegression
-Heart Disease prediction using Logistic Regresssion
+Heart Disease prediction using Logistic Regression
 Jupyter notebook - Predicting heart disease based on features including \n 
 
 1.Age
